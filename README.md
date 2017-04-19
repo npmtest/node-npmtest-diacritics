@@ -1,4 +1,7 @@
-# test coverage for  [diacritics (v1.3.0)](https://github.com/andrewrk/node-diacritics#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-diacritics.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-diacritics) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-diacritics.svg)](https://travis-ci.org/npmtest/node-npmtest-diacritics)
+# npmtest-diacritics
+
+#### test coverage for  [diacritics (v1.3.0)](https://github.com/andrewrk/node-diacritics#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-diacritics.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-diacritics) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-diacritics.svg)](https://travis-ci.org/npmtest/node-npmtest-diacritics)
+
 #### remove diacritics from strings
 
 [![NPM](https://nodei.co/npm/diacritics.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/diacritics)
